@@ -1,23 +1,21 @@
 # NodeJs-ExpressJs-CRUD
-Developing Restful API with Node.js and MongoDB Atlas Cloud. 
--CHANGE DB USERNAME AND PASS
+Developing Restful API with Node.js and MongoDB with local
 
 ## Installation
 
-Use the package manager npm.
+Use npm install to install all dependacies
+## npm install
 
-```bash
-npm install body-parser
-npm install express
-npm install mongodb
-npm install mongoose
-npm install validator
-```
+## Start
+
+use npm start to start the local server
+## npm start
+
 
 ## Usage
 
 ```nodejs
-localhost:3000/products/create with keys.
+localhost:3000/api/movies/ create with keys.
 new CRUD operations will be added .
 ```
 
